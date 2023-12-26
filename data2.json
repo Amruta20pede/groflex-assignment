@@ -19,7 +19,7 @@
       "id": 7,
       "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-      "price": 1499,
+      "price": 1450,
       "discountPercentage": 4.15,
       "rating": 4.25,
       "stock": 50,
@@ -31,25 +31,6 @@
         "https://i.dummyjson.com/data/products/7/2.jpg",
         "https://i.dummyjson.com/data/products/7/3.jpg",
         "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
       ]
     },
     {
@@ -69,7 +50,8 @@
         "https://i.dummyjson.com/data/products/9/3.png",
         "https://i.dummyjson.com/data/products/9/4.jpg",
         "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-      ]
+      ],
+      "deleted": true
     },
     {
       "id": 11,
@@ -87,44 +69,6 @@
         "https://i.dummyjson.com/data/products/11/2.jpg",
         "https://i.dummyjson.com/data/products/11/3.jpg",
         "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Brown Perfume",
-      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
-      "price": 40,
-      "discountPercentage": 15.66,
-      "rating": 4,
-      "stock": 52,
-      "brand": "Royal_Mirage",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/12/1.jpg",
-        "https://i.dummyjson.com/data/products/12/2.jpg",
-        "https://i.dummyjson.com/data/products/12/3.png",
-        "https://i.dummyjson.com/data/products/12/4.jpg",
-        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 13,
-      "title": "Fog Scent Xpressio Perfume",
-      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
-      "price": 13,
-      "discountPercentage": 8.14,
-      "rating": 4.59,
-      "stock": 61,
-      "brand": "Fog Scent Xpressio",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
-      "images": [
-        "https://i.dummyjson.com/data/products/13/1.jpg",
-        "https://i.dummyjson.com/data/products/13/2.png",
-        "https://i.dummyjson.com/data/products/13/3.jpg",
-        "https://i.dummyjson.com/data/products/13/4.jpg",
-        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
       ]
     },
     {
@@ -162,25 +106,6 @@
         "https://i.dummyjson.com/data/products/15/3.jpg",
         "https://i.dummyjson.com/data/products/15/4.jpg",
         "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 16,
-      "title": "Hyaluronic Acid Serum",
-      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-      "price": 19,
-      "discountPercentage": 13.31,
-      "rating": 4.83,
-      "stock": 110,
-      "brand": "L'Oreal Paris",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/16/1.png",
-        "https://i.dummyjson.com/data/products/16/2.webp",
-        "https://i.dummyjson.com/data/products/16/3.jpg",
-        "https://i.dummyjson.com/data/products/16/4.jpg",
-        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
       ]
     },
     {
@@ -579,7 +504,7 @@
       "id": 38,
       "title": "sublimation plain kids tank",
       "description": "sublimation plain kids tank tops wholesale",
-      "price": 100,
+      "price": 59,
       "discountPercentage": 11.12,
       "rating": 4.8,
       "stock": 20,
@@ -590,8 +515,9 @@
         "https://i.dummyjson.com/data/products/38/1.png",
         "https://i.dummyjson.com/data/products/38/2.jpg",
         "https://i.dummyjson.com/data/products/38/3.jpg",
-        "https://i.dummyjson.com/data/products/38/4.jpg"
-      ]
+        "https://i.dummyjson.com/data/products/38/thumbnail.jpg"
+      ],
+      "deleted": true
     },
     {
       "id": 39,
@@ -2347,46 +2273,64 @@
   ],
   "cart": [
     {
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "title": "Sleeve Shirt Womens",
+      "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+      "price": 90,
+      "discountPercentage": 10.89,
+      "rating": 4.26,
+      "stock": 39,
+      "brand": "Professional Wear",
+      "category": "tops",
+      "thumbnail": "https://i.dummyjson.com/data/products/36/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/36/1.jpg",
+        "https://i.dummyjson.com/data/products/36/2.webp",
+        "https://i.dummyjson.com/data/products/36/3.webp",
+        "https://i.dummyjson.com/data/products/36/4.jpg",
+        "https://i.dummyjson.com/data/products/36/thumbnail.jpg"
       ],
-      "productId": 8,
-      "quantity": 1,
-      "id": 1
+      "productId": 36,
+      "quantity": 3,
+      "id": 4
     },
     {
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "title": "Women Sweaters Wool",
+      "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater",
+      "price": 600,
+      "discountPercentage": 17.2,
+      "rating": 4.55,
+      "stock": 55,
+      "brand": "Top Sweater",
+      "category": "tops",
+      "thumbnail": "https://i.dummyjson.com/data/products/39/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/39/1.jpg",
+        "https://i.dummyjson.com/data/products/39/2.jpg",
+        "https://i.dummyjson.com/data/products/39/3.jpg",
+        "https://i.dummyjson.com/data/products/39/4.jpg",
+        "https://i.dummyjson.com/data/products/39/thumbnail.jpg"
       ],
-      "productId": 8,
-      "quantity": 1,
-      "id": 2
+      "productId": 39,
+      "quantity": 2,
+      "id": 5
+    },
+    {
+      "title": "women winter clothes",
+      "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set",
+      "price": 57,
+      "discountPercentage": 13.39,
+      "rating": 4.91,
+      "stock": 84,
+      "brand": "Top Sweater",
+      "category": "tops",
+      "thumbnail": "https://i.dummyjson.com/data/products/40/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/40/1.jpg",
+        "https://i.dummyjson.com/data/products/40/2.jpg"
+      ],
+      "productId": 40,
+      "quantity": 2,
+      "id": 6
     }
   ],
   "orders": [

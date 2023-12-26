@@ -351,7 +351,7 @@ export default function ProductForm() {
       </div>
     </form>
     <Modal
-      title={`Delete ${selectedProduct.title} `}
+      
       message="Are you sure you want to delete this Product?"
       dangerOption="Delete"
       cancelOption="Cancel"
