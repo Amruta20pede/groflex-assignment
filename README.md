@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the project :
 
-Currently, two official plugins are available:
+1) install dependencies using command  -
+   npm install
+2) run command -
+   npm run dev
+3) also run command below command to fetch product data from json file -
+   json-server --watch .\data2.json --port 8080
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
